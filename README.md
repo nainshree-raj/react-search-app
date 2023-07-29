@@ -10,12 +10,31 @@ SOLUTION :
 • A high-level project implementation plan
 • Working prototype of the required app.
 
-1) First page of the searching website :
-   Implemented using React.
-    
+API Used : ScrapingBee API . ScrapingBee is a web scraping API that handles headless browsers and rotates proxies for you.
+
+Tools Used : 
+* POSTMAN : to understand the API parameters.
+* VSCODE : to code
+* Git and Github : to upload my project.
+
+1) First page of the search website :
+   
+   * Implemented using React.
     <br>
     
-    ![]()
+    ![](https://github.com/nainshree-raj/react-search-app/blob/master/page1.png)
+   
+2) Second page of the search website :
+
+    * Showing "Loading ..." while it is fetching the data from API.
+    * Showing top 5 results on the search.
+    <br>
+    
+    ![](https://github.com/nainshree-raj/react-search-app/blob/master/page2.png)
+   <br>
+   
+   ![](https://github.com/nainshree-raj/react-search-app/blob/master/page2.1.png)
+   
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
