@@ -10,11 +10,12 @@ SOLUTION :
 • A high-level project implementation plan
 • Working prototype of the required app.
 
-API Used : ScrapingBee API . ScrapingBee is a web scraping API that handles headless browsers and rotates proxies for you.
+React : React, sometimes referred to as a frontend JavaScript framework, is a JavaScript library created by Facebook. React is a tool for building UI components.
+API Used : ScrapingBee API. ScrapingBee is a web scraping API that handles headless browsers and rotates proxies for you.
 
 Tools Used : 
-* POSTMAN : to understand the API parameters.
-* VSCODE : to code
+* POSTMAN : for better understanding of the API parameters.
+* VSCODE : to code for the app.
 * Git and Github : to upload my project.
 
 1) First page of the search website :
