@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-                                                      Search App with API using React
+                                              Search App with API using React
 PROBLEM STATEMENT : Make a web app which will have input and when you enter info into it
 1. you will use Custom Search API to get results for that query from Google top 5 web page URLs.
 2. you will use https://www.scrapingbee.com/#pricing API (free upto 1000 per month) to scrape those 5 URLs  and get the text (not the HTML one the text inside the body) 
