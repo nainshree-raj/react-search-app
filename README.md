@@ -1,9 +1,9 @@
 # Getting Started with Create React App
                                                       Search App with API using React
-PROBLEM STATEMENT : Make a web app to which will have a input and when you enter info into it
-1. you will use Custom Search API to get results for that query from google top 5 web page url.
-2. you will use https://www.scrapingbee.com/#pricing API (free upto 1000 per month) to scrape those 5 URLs  and get the text (not the html one the text inside the body) 
-3. and show the text from all 5 urls in p in UI
+PROBLEM STATEMENT : Make a web app which will have input and when you enter info into it
+1. you will use Custom Search API to get results for that query from Google top 5 web page URLs.
+2. you will use https://www.scrapingbee.com/#pricing API (free upto 1000 per month) to scrape those 5 URLs  and get the text (not the HTML one the text inside the body) 
+3. and show the text from all 5 URLs in p in UI
 
 SOLUTION : 
 • A detailed technical architecture 
@@ -14,7 +14,7 @@ React : React, sometimes referred to as a frontend JavaScript framework, is a Ja
 API Used : ScrapingBee API. ScrapingBee is a web scraping API that handles headless browsers and rotates proxies for you.
 
 Tools Used : 
-* POSTMAN : for better understanding of the API parameters.
+* POSTMAN : for a better understanding of the API parameters.
 * VSCODE : to code for the app.
 * Git and Github : to upload my project.
 
